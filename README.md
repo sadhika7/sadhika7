@@ -1,6 +1,6 @@
-<img src="https://raw.githack.com/sadhika7/sadhika7.github.io/master/header-banner.png" alt="banner that says Hi, I'm Swati actively looking for job opportunities" height="250" width="800">
+<img src="https://raw.githack.com/sadhika7/sadhika7.github.io/master/header-banner.png" alt="banner that says Hi, I'm Swati actively looking for job opportunities" height="250" width="700">
 
-I recently graduated from University of Mississippi with a mojor in Computer Science and a minor in General Business. During my undergraduate years, I had the opportunity of successfully completing two internships: as a Data Analyst Intern at University of Mississippi and Software Engineer Intern at Ericsson. Through my internship experiences and side projects, I have developed an immense interest in software development and data analytics. I am looking for recent grad full-time opportunities in Software Engineering.
+I recently graduated from University of Mississippi with a major in Computer Science and a minor in General Business. During my undergraduate years, I had the opportunity of successfully completing two internships: as a Data Analyst Intern at University of Mississippi and Software Engineer Intern at Ericsson. Through my internship experiences and side projects, I have developed an immense interest in software development and data analytics. I am looking for recent grad full-time opportunities in Software Engineering.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadhika7&layout=compact&hide=jupyter%20notebook&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
