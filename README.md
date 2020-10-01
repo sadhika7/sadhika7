@@ -1,6 +1,6 @@
-### Hi, I'm Swati
+#Hi, I'm Swati!
 
-<img src="https://raw.githubusercontent.com/sadhika7/sadhika7/master/pic.png" alt="picture of a banner with my name">
+<img src="https://raw.githubusercontent.com/sadhika7/sadhika7/master/pic.png" alt="banner that says Swati Adhikari">
 
 - I recently graduated from University of Mississippi in Computer Science and have a minor in General Business. During my undergraduate years, I had the chance of successfully completing two internships: Data Analyst Intern at University of Mississippi and Software Engineer Intern at Ericsson. Through my internship experiences and side projects, I have developed an immense interest in software development and data analytics. Thus, I am looking for recent grad full-time opportunities in Software Engineering.
 
