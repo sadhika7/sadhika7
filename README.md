@@ -1,9 +1,9 @@
-#Hi, I'm Swati!
+<img src="https://raw.githubusercontent.com/sadhika7/sadhika7/master/header.png" alt="banner that says Hi, I'm Swati actively looking for job opportunities">
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+I recently graduated from University of Mississippi with a mojor in Computer Science and a minor in General Business. During my undergraduate years, I had the opportunity of successfully completing two internships: as a Data Analyst Intern at University of Mississippi and Software Engineer Intern at Ericsson. Through my internship experiences and side projects, I have developed an immense interest in software development and data analytics. Thus, I am looking for recent grad full-time opportunities in Software Engineering.
 
-- I recently graduated from University of Mississippi in Computer Science and have a minor in General Business. During my undergraduate years, I had the chance of successfully completing two internships: Data Analyst Intern at University of Mississippi and Software Engineer Intern at Ericsson. Through my internship experiences and side projects, I have developed an immense interest in software development and data analytics. Thus, I am looking for recent grad full-time opportunities in Software Engineering.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadhika7&layout=compact&hide=jupyter%20notebook&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-## Find me around the web 🌎:
+# Please feel free to connect with me!
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adhikariswati/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/swatiadhikari_/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/swati.adhikari.750)
