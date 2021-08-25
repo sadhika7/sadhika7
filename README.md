@@ -1,6 +1,6 @@
 <!-- <img src="https://raw.githack.com/sadhika7/sadhika7.github.io/master/picture.png" alt="banner that says Hi, I'm Swati actively looking for job opportunities" height="200" width="900"> -->
 
-I am currently pursuing a Master's in Computer Science at Virginia Tech with specialization in Software Engineering and Data Analytics. During my undergraduate years, I had the opportunity of successfully completing two internships: as a Data Analyst Intern at University of Mississippi and Software Engineer Intern at Ericsson. Through my internship experiences and side projects, I have developed an immense interest in software development and data analytics. 
+I am currently pursuing a Master's in Computer Science at Virginia Tech with specializations in Software Engineering and Data Analytics. During my undergraduate years, I had the opportunity of successfully completing two internships: as a Data Analyst Intern at University of Mississippi and Software Engineer Intern at Ericsson. Through my internship experiences and side projects, I have developed an immense interest in software development and data analytics. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadhika7&layout=compact&hide=jupyter%20notebook&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
